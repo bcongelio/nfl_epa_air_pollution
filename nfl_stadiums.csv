@@ -1,0 +1,38 @@
+team,stadium,latitude,longitude,former,roof_type
+Arizona Cardinals,State Farm Stadium,33.52,-112.26,FALSE,retractable
+Atlanta Falcons,Mercedes-Benz Stadium,33.75,-84.4,FALSE,retractable
+Atlanta Falcons,Georgia Dome,33.75,-84.4,TRUE,fixed
+Baltimore Ravens,M&T Bank Stadium,39.27,-76.62,FALSE,open
+Buffalo Bills,Highmark Stadium,42.77,-78.78,FALSE,open
+Carolina Panthers,Bank of America Stadium,35.22,-80.85,FALSE,open
+Chicago Bears,Soldier Field,41.86,-87.61,FALSE,open
+Cincinnati Bengals,Paycor Stadium,39.09,-84.51,FALSE,open
+Cleveland Browns,Browns Stadium,41.5,-81.69,FALSE,open
+Dallas Cowboys,AT&T Stadium,32.74,-97.09,FALSE,retractable
+Denver Broncos,Empower Field,39.74,-105.02,FALSE,open
+Detroit Lions,Ford Field,42.34,-83.04,FALSE,fixed
+Green Bay Packers,Lambeau Field,44.5,-88.06,FALSE,open
+Houston Texans,NRG Stadium,29.68,-95.41,FALSE,retractable
+Indianapolis Colts,Lucas Oil Stadium,39.76,-86.16,FALSE,retractable
+Jacksonville Jaguars,EverBank Stadium,30.32,-81.63,FALSE,open
+Kansas City Chiefs,Arrowhead Stadium,39.04,-94.48,FALSE,open
+Las Vegas Raiders,Allegiant Stadium,36.09,-115.18,FALSE,fixed
+Los Angeles Rams,SoFi Stadium,33.95,-118.33,FALSE,fixed
+Los Angeles Chargers,SoFi Stadium,33.95,-118.33,FALSE,fixed
+Miami Dolphins,Hard Rock Stadium,25.95,-80.23,FALSE,open
+Minnesota Vikings,U.S. Bank Stadium,44.97,-93.25,FALSE,fixed
+Minnesota Vikings,Hubert Humphrey Metrodome,44.58,-93.15,TRUE,fixed
+Minnesota Vikings,TCF Bank Stadium,44.97,-93.22,TRUE,open
+New England Patriots,Gillette Stadium,42.09,-71.26,FALSE,open
+New Orleans Saints,Caesars Superdome,29.95,-90.08,FALSE,fixed
+New York Giants,MetLife Stadium,40.81,-74.07,FALSE,open
+New York Jets,MetLife Stadium,40.81,-74.07,FALSE,open
+Philadelphia Eagles,Lincoln Financial Field,39.9,-75.16,FALSE,open
+Pittsburgh Steelers,Acrisure Stadium,40.44,-80.01,FALSE,open
+San Francisco 49ers,Levi's Stadium,37.4,-121.96,FALSE,open
+San Francisco 49ers,Candlestick Park,37.42,-122.23,TRUE,open
+Seattle Seahawks,Lumen Field,47.59,-122.33,FALSE,open
+St. Louis Rams,Dome at America's Center,38.37,-90.11,TRUE,fixed
+Tampa Bay Bucccaneers,Raymond James Stadium,27.97,-82.5,FALSE,open
+Tennessee Titans,Nissan Stadium,36.16,-86.77,FALSE,open
+Washington Commanders,Commanders Field,38.9,-76.86,FALSE,open
